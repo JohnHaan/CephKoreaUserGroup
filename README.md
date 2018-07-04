@@ -9,6 +9,7 @@ ceph korea user group
 2. cinder driver filter
 3. bluestore 분석
 4. kolla-ansible
+5. bucket index pool 분석
 
 
 
